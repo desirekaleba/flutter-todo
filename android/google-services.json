@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2902299405",
+    "firebase_url": "https://flutter-todo-370c8.firebaseio.com",
+    "project_id": "flutter-todo-370c8",
+    "storage_bucket": "flutter-todo-370c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2902299405:android:e3618f48b2f1e6707b5644",
+        "android_client_info": {
+          "package_name": "com.deska.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2902299405-ovk8399qc6rarj5sslfge24jqqbhqlml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNjB9-_cxYphhXssvkbBblAO3eODfqdXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2902299405-ovk8399qc6rarj5sslfge24jqqbhqlml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
